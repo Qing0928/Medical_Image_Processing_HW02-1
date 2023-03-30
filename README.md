@@ -18,7 +18,7 @@ imshow("Median", img_median);
 imwrite("Median Filter.png", img_median);
 ```
 
-class
+## Filter Class
 ```
 class SpatialFilter {
     public:
